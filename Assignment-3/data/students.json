@@ -1,0 +1,3356 @@
+[
+    {
+      "studentNum": 1,
+      "firstName": "Foster",
+      "lastName": "Thorburn",
+      "email": "fthorburn0@mySeneca.ca",
+      "addressStreet": "8 Arapahoe Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 2,
+      "firstName": "Emmy",
+      "lastName": "Trehearne",
+      "email": "etrehearne1@mySeneca.ca",
+      "addressStreet": "66965 Shelley Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 3,
+      "firstName": "Zonnya",
+      "lastName": "Laytham",
+      "email": "zlaytham2@mySeneca.ca",
+      "addressStreet": "24665 Scoville Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 4,
+      "firstName": "Asia",
+      "lastName": "Bollon",
+      "email": "abollon3@mySeneca.ca",
+      "addressStreet": "0464 Mitchell Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 5,
+      "firstName": "Ysabel",
+      "lastName": "Collyns",
+      "email": "ycollyns4@mySeneca.ca",
+      "addressStreet": "529 Grim Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 6,
+      "firstName": "Tremain",
+      "lastName": "Cassy",
+      "email": "tcassy5@mySeneca.ca",
+      "addressStreet": "068 Bluestem Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 7,
+      "firstName": "Jess",
+      "lastName": "Jago",
+      "email": "jjago6@mySeneca.ca",
+      "addressStreet": "0299 Truax Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 8,
+      "firstName": "Rodi",
+      "lastName": "Tant",
+      "email": "rtant7@mySeneca.ca",
+      "addressStreet": "7 Clove Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 9,
+      "firstName": "Henri",
+      "lastName": "Rikard",
+      "email": "hrikard8@mySeneca.ca",
+      "addressStreet": "267 Ryan Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 10,
+      "firstName": "Beatrisa",
+      "lastName": "Wanne",
+      "email": "bwanne9@mySeneca.ca",
+      "addressStreet": "9 Lotheville Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 11,
+      "firstName": "Lewes",
+      "lastName": "Tregidgo",
+      "email": "ltregidgoa@mySeneca.ca",
+      "addressStreet": "122 Acker Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 12,
+      "firstName": "Vilma",
+      "lastName": "Chrichton",
+      "email": "vchrichtonb@mySeneca.ca",
+      "addressStreet": "5 Longview Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 13,
+      "firstName": "Penelopa",
+      "lastName": "Grolmann",
+      "email": "pgrolmannc@mySeneca.ca",
+      "addressStreet": "823 Bunker Hill Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 14,
+      "firstName": "Brianne",
+      "lastName": "Laslett",
+      "email": "blaslettd@mySeneca.ca",
+      "addressStreet": "04160 Upham Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 15,
+      "firstName": "Elie",
+      "lastName": "Caddens",
+      "email": "ecaddense@mySeneca.ca",
+      "addressStreet": "1 Summit Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 16,
+      "firstName": "Aileen",
+      "lastName": "Harbisher",
+      "email": "aharbisherf@mySeneca.ca",
+      "addressStreet": "6227 Glacier Hill Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 17,
+      "firstName": "Beverie",
+      "lastName": "Garnsworthy",
+      "email": "bgarnsworthyg@mySeneca.ca",
+      "addressStreet": "33 Mccormick Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 18,
+      "firstName": "Jo-ann",
+      "lastName": "Wimp",
+      "email": "jwimph@mySeneca.ca",
+      "addressStreet": "43790 Emmet Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 19,
+      "firstName": "Ash",
+      "lastName": "Hofler",
+      "email": "ahofleri@mySeneca.ca",
+      "addressStreet": "1 Cody Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 20,
+      "firstName": "Marnie",
+      "lastName": "Martinho",
+      "email": "mmartinhoj@mySeneca.ca",
+      "addressStreet": "6459 Holmberg Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 21,
+      "firstName": "Rozalie",
+      "lastName": "Dron",
+      "email": "rdronk@mySeneca.ca",
+      "addressStreet": "29843 Luster Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 22,
+      "firstName": "Ellette",
+      "lastName": "Emby",
+      "email": "eembyl@mySeneca.ca",
+      "addressStreet": "0615 Mayer Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 23,
+      "firstName": "Marquita",
+      "lastName": "Garatty",
+      "email": "mgarattym@mySeneca.ca",
+      "addressStreet": "3955 Hoard Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 24,
+      "firstName": "Bradley",
+      "lastName": "Maric",
+      "email": "bmaricn@mySeneca.ca",
+      "addressStreet": "35 Vidon Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 25,
+      "firstName": "Garrott",
+      "lastName": "Turnor",
+      "email": "gturnoro@mySeneca.ca",
+      "addressStreet": "32700 Sunfield Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 26,
+      "firstName": "Clement",
+      "lastName": "Eronie",
+      "email": "ceroniep@mySeneca.ca",
+      "addressStreet": "223 Hovde Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      "TA": true,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 27,
+      "firstName": "Haley",
+      "lastName": "Stamper",
+      "email": "hstamperq@mySeneca.ca",
+      "addressStreet": "85 Kensington Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": true,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 28,
+      "firstName": "Shawn",
+      "lastName": "Ramet",
+      "email": "srametr@mySeneca.ca",
+      "addressStreet": "229 Sycamore Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": true,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 29,
+      "firstName": "Hedvig",
+      "lastName": "Bassett",
+      "email": "hbassetts@mySeneca.ca",
+      "addressStreet": "7 Swallow Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": true,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 30,
+      "firstName": "Daune",
+      "lastName": "Raffan",
+      "email": "draffant@mySeneca.ca",
+      "addressStreet": "8 Grim Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": true,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 31,
+      "firstName": "Kennie",
+      "lastName": "Casterton",
+      "email": "kcasterton0@mySeneca.ca",
+      "addressStreet": "449 Upham Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 32,
+      "firstName": "Tomkin",
+      "lastName": "Holcroft",
+      "email": "tholcroft1@mySeneca.ca",
+      "addressStreet": "1 Duke Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 33,
+      "firstName": "Daile",
+      "lastName": "Connop",
+      "email": "dconnop2@mySeneca.ca",
+      "addressStreet": "92437 Fremont Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 34,
+      "firstName": "Prissie",
+      "lastName": "Lambell",
+      "email": "plambell3@mySeneca.ca",
+      "addressStreet": "9053 Reinke Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 35,
+      "firstName": "Brocky",
+      "lastName": "Demer",
+      "email": "bdemer4@mySeneca.ca",
+      "addressStreet": "3559 School Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 36,
+      "firstName": "Aviva",
+      "lastName": "Blaber",
+      "email": "ablaber5@mySeneca.ca",
+      "addressStreet": "4 Pawling Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 37,
+      "firstName": "Ike",
+      "lastName": "Gravenall",
+      "email": "igravenall6@mySeneca.ca",
+      "addressStreet": "017 Forster Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 38,
+      "firstName": "Rachel",
+      "lastName": "Blumfield",
+      "email": "rblumfield7@mySeneca.ca",
+      "addressStreet": "9772 Cody Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 39,
+      "firstName": "Elissa",
+      "lastName": "Preshous",
+      "email": "epreshous8@mySeneca.ca",
+      "addressStreet": "555 Kim Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 40,
+      "firstName": "Desiri",
+      "lastName": "Eckert",
+      "email": "deckert9@mySeneca.ca",
+      "addressStreet": "77039 Anhalt Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 41,
+      "firstName": "Gui",
+      "lastName": "Collocott",
+      "email": "gcollocotta@mySeneca.ca",
+      "addressStreet": "4 Donald Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 42,
+      "firstName": "Ewen",
+      "lastName": "Hubbart",
+      "email": "ehubbartb@mySeneca.ca",
+      "addressStreet": "59 Jana Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 43,
+      "firstName": "Pru",
+      "lastName": "Souster",
+      "email": "psousterc@mySeneca.ca",
+      "addressStreet": "3876 Hoard Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 44,
+      "firstName": "Rhys",
+      "lastName": "Twidale",
+      "email": "rtwidaled@mySeneca.ca",
+      "addressStreet": "83 Leroy Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 45,
+      "firstName": "Mycah",
+      "lastName": "Broxup",
+      "email": "mbroxupe@mySeneca.ca",
+      "addressStreet": "85 Amoth Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 46,
+      "firstName": "Zsa zsa",
+      "lastName": "Iffe",
+      "email": "ziffef@mySeneca.ca",
+      "addressStreet": "5522 Cody Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 47,
+      "firstName": "Enoch",
+      "lastName": "Greenstead",
+      "email": "egreensteadg@mySeneca.ca",
+      "addressStreet": "759 Westridge Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 48,
+      "firstName": "Frasquito",
+      "lastName": "Reddle",
+      "email": "freddleh@mySeneca.ca",
+      "addressStreet": "0857 Sunnyside Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 49,
+      "firstName": "Granville",
+      "lastName": "Antosch",
+      "email": "gantoschi@mySeneca.ca",
+      "addressStreet": "5587 Harper Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 50,
+      "firstName": "Wendall",
+      "lastName": "Bingell",
+      "email": "wbingellj@mySeneca.ca",
+      "addressStreet": "395 Rusk Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 51,
+      "firstName": "Serena",
+      "lastName": "Hanbury",
+      "email": "shanburyk@mySeneca.ca",
+      "addressStreet": "10541 Florence Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 52,
+      "firstName": "Annie",
+      "lastName": "Braun",
+      "email": "abraunl@mySeneca.ca",
+      "addressStreet": "9 Delladonna Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 53,
+      "firstName": "Goldina",
+      "lastName": "Farres",
+      "email": "gfarresm@mySeneca.ca",
+      "addressStreet": "472 Esch Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 54,
+      "firstName": "Karlen",
+      "lastName": "Keam",
+      "email": "kkeamn@mySeneca.ca",
+      "addressStreet": "9300 Veith Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 55,
+      "firstName": "Maxie",
+      "lastName": "Lonergan",
+      "email": "mlonergano@mySeneca.ca",
+      "addressStreet": "08 Karstens Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 56,
+      "firstName": "Virgil",
+      "lastName": "Youle",
+      "email": "vyoulep@mySeneca.ca",
+      "addressStreet": "02 Scofield Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 57,
+      "firstName": "Alexi",
+      "lastName": "Fish",
+      "email": "afishq@mySeneca.ca",
+      "addressStreet": "079 Northwestern Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 58,
+      "firstName": "Keefe",
+      "lastName": "De Mattia",
+      "email": "kdemattiar@mySeneca.ca",
+      "addressStreet": "54 Moose Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 59,
+      "firstName": "Mano",
+      "lastName": "Hooke",
+      "email": "mhookes@mySeneca.ca",
+      "addressStreet": "750 Sutteridge Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 60,
+      "firstName": "Tiffanie",
+      "lastName": "Ferrarotti",
+      "email": "tferrarottit@mySeneca.ca",
+      "addressStreet": "8360 Lerdahl Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 61,
+      "firstName": "Valle",
+      "lastName": "Joberne",
+      "email": "vjoberneu@mySeneca.ca",
+      "addressStreet": "885 Sommers Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 62,
+      "firstName": "Bevon",
+      "lastName": "Elce",
+      "email": "belcev@mySeneca.ca",
+      "addressStreet": "68665 Fieldstone Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 63,
+      "firstName": "Mill",
+      "lastName": "Cutill",
+      "email": "mcutillw@mySeneca.ca",
+      "addressStreet": "4333 Corben Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 64,
+      "firstName": "Aurelea",
+      "lastName": "Cleyburn",
+      "email": "acleyburnx@mySeneca.ca",
+      "addressStreet": "2 Schurz Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 65,
+      "firstName": "Shaina",
+      "lastName": "Lingner",
+      "email": "slingnery@mySeneca.ca",
+      "addressStreet": "8739 International Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 66,
+      "firstName": "Nancee",
+      "lastName": "Delicate",
+      "email": "ndelicatez@mySeneca.ca",
+      "addressStreet": "581 Fremont Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 67,
+      "firstName": "Olenka",
+      "lastName": "Mountfort",
+      "email": "omountfort10@mySeneca.ca",
+      "addressStreet": "45 Crest Line Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 68,
+      "firstName": "Bianca",
+      "lastName": "Biesty",
+      "email": "bbiesty11@mySeneca.ca",
+      "addressStreet": "9 Mosinee Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 69,
+      "firstName": "Jedediah",
+      "lastName": "Marriner",
+      "email": "jmarriner12@mySeneca.ca",
+      "addressStreet": "941 Union Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 70,
+      "firstName": "Obie",
+      "lastName": "Rubinovici",
+      "email": "orubinovici13@mySeneca.ca",
+      "addressStreet": "4497 Lunder Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 71,
+      "firstName": "Brit",
+      "lastName": "Bresson",
+      "email": "bbresson14@mySeneca.ca",
+      "addressStreet": "74 Thierer Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 72,
+      "firstName": "Alberik",
+      "lastName": "Ganing",
+      "email": "aganing15@mySeneca.ca",
+      "addressStreet": "2423 Kropf Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 73,
+      "firstName": "Regina",
+      "lastName": "Inston",
+      "email": "rinston16@mySeneca.ca",
+      "addressStreet": "137 Lien Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 74,
+      "firstName": "Helenelizabeth",
+      "lastName": "Brosoli",
+      "email": "hbrosoli17@mySeneca.ca",
+      "addressStreet": "79355 Becker Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 75,
+      "firstName": "Rhona",
+      "lastName": "Zute",
+      "email": "rzute18@mySeneca.ca",
+      "addressStreet": "68073 La Follette Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 76,
+      "firstName": "Tybie",
+      "lastName": "Hullins",
+      "email": "thullins19@mySeneca.ca",
+      "addressStreet": "3 Jay Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 77,
+      "firstName": "Rois",
+      "lastName": "Tilbrook",
+      "email": "rtilbrook1a@mySeneca.ca",
+      "addressStreet": "83225 Dennis Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 78,
+      "firstName": "Rochell",
+      "lastName": "Di Francesco",
+      "email": "rdifrancesco1b@mySeneca.ca",
+      "addressStreet": "1 Rowland Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 79,
+      "firstName": "Addi",
+      "lastName": "Wield",
+      "email": "awield1c@mySeneca.ca",
+      "addressStreet": "1929 Autumn Leaf Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 80,
+      "firstName": "Conrad",
+      "lastName": "Haye",
+      "email": "chaye1d@mySeneca.ca",
+      "addressStreet": "151 Pearson Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 81,
+      "firstName": "Dyana",
+      "lastName": "Moatt",
+      "email": "dmoatt1e@mySeneca.ca",
+      "addressStreet": "808 Morrow Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 82,
+      "firstName": "El",
+      "lastName": "Potte",
+      "email": "epotte1f@mySeneca.ca",
+      "addressStreet": "45 Coleman Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 83,
+      "firstName": "Maurita",
+      "lastName": "Sykora",
+      "email": "msykora1g@mySeneca.ca",
+      "addressStreet": "4 Vahlen Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 84,
+      "firstName": "Wilek",
+      "lastName": "Neligan",
+      "email": "wneligan1h@mySeneca.ca",
+      "addressStreet": "6 Grover Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 85,
+      "firstName": "Ulric",
+      "lastName": "Blackborow",
+      "email": "ublackborow1i@mySeneca.ca",
+      "addressStreet": "8210 Center Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 86,
+      "firstName": "Rudolfo",
+      "lastName": "Lohan",
+      "email": "rlohan1j@mySeneca.ca",
+      "addressStreet": "5 Milwaukee Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 87,
+      "firstName": "Samson",
+      "lastName": "Leehane",
+      "email": "sleehane1k@mySeneca.ca",
+      "addressStreet": "2798 Blue Bill Park Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 88,
+      "firstName": "Harvey",
+      "lastName": "Gerrill",
+      "email": "hgerrill1l@mySeneca.ca",
+      "addressStreet": "91537 Beilfuss Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 89,
+      "firstName": "Fran",
+      "lastName": "Batterton",
+      "email": "fbatterton1m@mySeneca.ca",
+      "addressStreet": "210 Carpenter Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 90,
+      "firstName": "Suzanne",
+      "lastName": "Stouther",
+      "email": "sstouther1n@mySeneca.ca",
+      "addressStreet": "77 Portage Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 91,
+      "firstName": "Jose",
+      "lastName": "Brizell",
+      "email": "jbrizell1o@mySeneca.ca",
+      "addressStreet": "32894 Steensland Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 92,
+      "firstName": "Marcus",
+      "lastName": "Gilleson",
+      "email": "mgilleson1p@mySeneca.ca",
+      "addressStreet": "68 Wayridge Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 93,
+      "firstName": "Shanta",
+      "lastName": "Wille",
+      "email": "swille1q@mySeneca.ca",
+      "addressStreet": "8372 Trailsway Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 94,
+      "firstName": "Savina",
+      "lastName": "McGillicuddy",
+      "email": "smcgillicuddy1r@mySeneca.ca",
+      "addressStreet": "1604 Coleman Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 95,
+      "firstName": "Goldie",
+      "lastName": "Itzcak",
+      "email": "gitzcak1s@mySeneca.ca",
+      "addressStreet": "42 Pierstorff Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 96,
+      "firstName": "Davey",
+      "lastName": "Campany",
+      "email": "dcampany1t@mySeneca.ca",
+      "addressStreet": "17 Declaration Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 97,
+      "firstName": "Tina",
+      "lastName": "O'Fallowne",
+      "email": "tofallowne1u@mySeneca.ca",
+      "addressStreet": "9908 Aberg Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 98,
+      "firstName": "Nanny",
+      "lastName": "Bus",
+      "email": "nbus1v@mySeneca.ca",
+      "addressStreet": "248 Mayer Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 99,
+      "firstName": "Geneva",
+      "lastName": "Prose",
+      "email": "gprose1w@mySeneca.ca",
+      "addressStreet": "28 Fair Oaks Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 100,
+      "firstName": "Tamas",
+      "lastName": "Charley",
+      "email": "tcharley1x@mySeneca.ca",
+      "addressStreet": "320 Macpherson Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 101,
+      "firstName": "Sheff",
+      "lastName": "Maevela",
+      "email": "smaevela1y@mySeneca.ca",
+      "addressStreet": "9863 Lerdahl Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 102,
+      "firstName": "Rayshell",
+      "lastName": "Gravell",
+      "email": "rgravell1z@mySeneca.ca",
+      "addressStreet": "2 Sloan Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 103,
+      "firstName": "Francois",
+      "lastName": "Gunby",
+      "email": "fgunby20@mySeneca.ca",
+      "addressStreet": "722 Autumn Leaf Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 104,
+      "firstName": "Cristie",
+      "lastName": "Rentelll",
+      "email": "crentelll21@mySeneca.ca",
+      "addressStreet": "5 Reindahl Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 105,
+      "firstName": "Eyde",
+      "lastName": "MacColm",
+      "email": "emaccolm22@mySeneca.ca",
+      "addressStreet": "7 Huxley Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 106,
+      "firstName": "Adel",
+      "lastName": "Glowinski",
+      "email": "aglowinski23@mySeneca.ca",
+      "addressStreet": "1713 Shoshone Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 107,
+      "firstName": "Ginnifer",
+      "lastName": "Iacovides",
+      "email": "giacovides24@mySeneca.ca",
+      "addressStreet": "7 Mayfield Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 108,
+      "firstName": "Hester",
+      "lastName": "Mussalli",
+      "email": "hmussalli25@mySeneca.ca",
+      "addressStreet": "0 Del Mar Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 109,
+      "firstName": "Olwen",
+      "lastName": "Melia",
+      "email": "omelia26@mySeneca.ca",
+      "addressStreet": "435 2nd Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 110,
+      "firstName": "Armando",
+      "lastName": "Tainton",
+      "email": "atainton27@mySeneca.ca",
+      "addressStreet": "5819 Dawn Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 111,
+      "firstName": "Pru",
+      "lastName": "Rodson",
+      "email": "prodson28@mySeneca.ca",
+      "addressStreet": "7865 6th Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 112,
+      "firstName": "Reinaldos",
+      "lastName": "Baus",
+      "email": "rbaus29@mySeneca.ca",
+      "addressStreet": "3 Fairfield Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 113,
+      "firstName": "Babita",
+      "lastName": "Ainslee",
+      "email": "bainslee2a@mySeneca.ca",
+      "addressStreet": "7628 Novick Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 114,
+      "firstName": "Cosette",
+      "lastName": "Handes",
+      "email": "chandes2b@mySeneca.ca",
+      "addressStreet": "0080 Troy Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 115,
+      "firstName": "Cristy",
+      "lastName": "Frensche",
+      "email": "cfrensche2c@mySeneca.ca",
+      "addressStreet": "379 Redwing Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 116,
+      "firstName": "Nanice",
+      "lastName": "Dunnan",
+      "email": "ndunnan2d@mySeneca.ca",
+      "addressStreet": "70077 Southridge Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 117,
+      "firstName": "Rebekah",
+      "lastName": "Mackelworth",
+      "email": "rmackelworth2e@mySeneca.ca",
+      "addressStreet": "189 Loeprich Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 118,
+      "firstName": "Roscoe",
+      "lastName": "Angrick",
+      "email": "rangrick2f@mySeneca.ca",
+      "addressStreet": "4816 Manley Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 119,
+      "firstName": "Jandy",
+      "lastName": "Trembey",
+      "email": "jtrembey2g@mySeneca.ca",
+      "addressStreet": "575 East Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 120,
+      "firstName": "Tulley",
+      "lastName": "Algeo",
+      "email": "talgeo2h@mySeneca.ca",
+      "addressStreet": "0599 Mandrake Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 121,
+      "firstName": "Evania",
+      "lastName": "Babbe",
+      "email": "ebabbe2i@mySeneca.ca",
+      "addressStreet": "47314 Maryland Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 122,
+      "firstName": "Malva",
+      "lastName": "Hosburn",
+      "email": "mhosburn2j@mySeneca.ca",
+      "addressStreet": "8191 Pepper Wood Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 123,
+      "firstName": "Waneta",
+      "lastName": "Sudron",
+      "email": "wsudron2k@mySeneca.ca",
+      "addressStreet": "8 Northland Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 124,
+      "firstName": "Sabrina",
+      "lastName": "Nabarro",
+      "email": "snabarro2l@mySeneca.ca",
+      "addressStreet": "7 Katie Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 125,
+      "firstName": "Nicky",
+      "lastName": "Blowne",
+      "email": "nblowne2m@mySeneca.ca",
+      "addressStreet": "46675 Monterey Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 126,
+      "firstName": "Katherina",
+      "lastName": "Kestle",
+      "email": "kkestle2n@mySeneca.ca",
+      "addressStreet": "2549 Weeping Birch Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 127,
+      "firstName": "Romola",
+      "lastName": "Rodear",
+      "email": "rrodear2o@mySeneca.ca",
+      "addressStreet": "1744 Mayfield Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 128,
+      "firstName": "Ainslie",
+      "lastName": "Mewton",
+      "email": "amewton2p@mySeneca.ca",
+      "addressStreet": "4165 Shoshone Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 129,
+      "firstName": "Gaylor",
+      "lastName": "Iskowitz",
+      "email": "giskowitz2q@mySeneca.ca",
+      "addressStreet": "781 Clove Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 130,
+      "firstName": "Isahella",
+      "lastName": "McGall",
+      "email": "imcgall2r@mySeneca.ca",
+      "addressStreet": "9049 Everett Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 131,
+      "firstName": "Raffaello",
+      "lastName": "McGibbon",
+      "email": "rmcgibbon2s@mySeneca.ca",
+      "addressStreet": "2461 Hoard Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 132,
+      "firstName": "Bertha",
+      "lastName": "Snoddin",
+      "email": "bsnoddin2t@mySeneca.ca",
+      "addressStreet": "08366 Waubesa Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 133,
+      "firstName": "Ambros",
+      "lastName": "Perfili",
+      "email": "aperfili2u@mySeneca.ca",
+      "addressStreet": "15809 Crowley Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 134,
+      "firstName": "Audrie",
+      "lastName": "Jumel",
+      "email": "ajumel2v@mySeneca.ca",
+      "addressStreet": "36969 Service Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 135,
+      "firstName": "Reggi",
+      "lastName": "Iacopini",
+      "email": "riacopini2w@mySeneca.ca",
+      "addressStreet": "06879 Nevada Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 136,
+      "firstName": "Meris",
+      "lastName": "Patters",
+      "email": "mpatters2x@mySeneca.ca",
+      "addressStreet": "5093 Blaine Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 137,
+      "firstName": "Sonnnie",
+      "lastName": "Chudleigh",
+      "email": "schudleigh2y@mySeneca.ca",
+      "addressStreet": "37 Florence Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 138,
+      "firstName": "Dorey",
+      "lastName": "Keegan",
+      "email": "dkeegan2z@mySeneca.ca",
+      "addressStreet": "07 5th Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 139,
+      "firstName": "Emmy",
+      "lastName": "Dallicoat",
+      "email": "edallicoat30@mySeneca.ca",
+      "addressStreet": "4 Autumn Leaf Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 140,
+      "firstName": "Nye",
+      "lastName": "Harrild",
+      "email": "nharrild31@mySeneca.ca",
+      "addressStreet": "38 Rowland Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 141,
+      "firstName": "Mechelle",
+      "lastName": "Formie",
+      "email": "mformie32@mySeneca.ca",
+      "addressStreet": "94 Dixon Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 142,
+      "firstName": "Abie",
+      "lastName": "Welland",
+      "email": "awelland33@mySeneca.ca",
+      "addressStreet": "78589 Hoard Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 143,
+      "firstName": "Wolf",
+      "lastName": "McGann",
+      "email": "wmcgann34@mySeneca.ca",
+      "addressStreet": "3 Judy Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 144,
+      "firstName": "Dewey",
+      "lastName": "Skurray",
+      "email": "dskurray35@mySeneca.ca",
+      "addressStreet": "7699 Eagan Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 145,
+      "firstName": "Sylvia",
+      "lastName": "Shrigley",
+      "email": "sshrigley36@mySeneca.ca",
+      "addressStreet": "93 Homewood Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 146,
+      "firstName": "Roseline",
+      "lastName": "Windress",
+      "email": "rwindress37@mySeneca.ca",
+      "addressStreet": "2 Meadow Ridge Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 147,
+      "firstName": "Homerus",
+      "lastName": "Runnett",
+      "email": "hrunnett38@mySeneca.ca",
+      "addressStreet": "78 Talmadge Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 148,
+      "firstName": "Vania",
+      "lastName": "Brabbs",
+      "email": "vbrabbs39@mySeneca.ca",
+      "addressStreet": "5093 Main Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 149,
+      "firstName": "Roxana",
+      "lastName": "Gillitt",
+      "email": "rgillitt3a@mySeneca.ca",
+      "addressStreet": "2 Victoria Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 150,
+      "firstName": "Winona",
+      "lastName": "Akroyd",
+      "email": "wakroyd3b@mySeneca.ca",
+      "addressStreet": "36 Morning Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 151,
+      "firstName": "Sampson",
+      "lastName": "Pickworth",
+      "email": "spickworth3c@mySeneca.ca",
+      "addressStreet": "2266 Ridgeway Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 152,
+      "firstName": "Ingram",
+      "lastName": "Enevoldsen",
+      "email": "ienevoldsen3d@mySeneca.ca",
+      "addressStreet": "7 Lighthouse Bay Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 153,
+      "firstName": "Noellyn",
+      "lastName": "Prebble",
+      "email": "nprebble3e@mySeneca.ca",
+      "addressStreet": "4636 North Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 154,
+      "firstName": "Carlotta",
+      "lastName": "Raynard",
+      "email": "craynard3f@mySeneca.ca",
+      "addressStreet": "8 Dahle Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 155,
+      "firstName": "Iris",
+      "lastName": "Kubach",
+      "email": "ikubach3g@mySeneca.ca",
+      "addressStreet": "1042 Cody Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 156,
+      "firstName": "Thaine",
+      "lastName": "Saing",
+      "email": "tsaing3h@mySeneca.ca",
+      "addressStreet": "1 Scoville Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 157,
+      "firstName": "Atlanta",
+      "lastName": "Knevet",
+      "email": "aknevet3i@mySeneca.ca",
+      "addressStreet": "5327 Londonderry Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 158,
+      "firstName": "Jerrold",
+      "lastName": "Coolahan",
+      "email": "jcoolahan3j@mySeneca.ca",
+      "addressStreet": "186 School Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 159,
+      "firstName": "Ty",
+      "lastName": "Arran",
+      "email": "tarran3k@mySeneca.ca",
+      "addressStreet": "78641 Fair Oaks Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 160,
+      "firstName": "Amelina",
+      "lastName": "Tabart",
+      "email": "atabart3l@mySeneca.ca",
+      "addressStreet": "59602 Blackbird Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 161,
+      "firstName": "Leanna",
+      "lastName": "Frunks",
+      "email": "lfrunks3m@mySeneca.ca",
+      "addressStreet": "6686 Bartillon Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 162,
+      "firstName": "Kile",
+      "lastName": "Ludford",
+      "email": "kludford3n@mySeneca.ca",
+      "addressStreet": "43173 Vahlen Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 163,
+      "firstName": "Tiebout",
+      "lastName": "Broderick",
+      "email": "tbroderick3o@mySeneca.ca",
+      "addressStreet": "5595 Jackson Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 164,
+      "firstName": "Bea",
+      "lastName": "MacAllen",
+      "email": "bmacallen3p@mySeneca.ca",
+      "addressStreet": "3247 Surrey Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 165,
+      "firstName": "Giffer",
+      "lastName": "Bodd",
+      "email": "gbodd3q@mySeneca.ca",
+      "addressStreet": "0 Rieder Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 166,
+      "firstName": "Standford",
+      "lastName": "Burras",
+      "email": "sburras3r@mySeneca.ca",
+      "addressStreet": "2 Pearson Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 167,
+      "firstName": "Betteanne",
+      "lastName": "Destouche",
+      "email": "bdestouche3s@mySeneca.ca",
+      "addressStreet": "0099 High Crossing Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 168,
+      "firstName": "Paulie",
+      "lastName": "Burns",
+      "email": "pburns3t@mySeneca.ca",
+      "addressStreet": "9 Lillian Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 169,
+      "firstName": "Urson",
+      "lastName": "Stodd",
+      "email": "ustodd3u@mySeneca.ca",
+      "addressStreet": "6313 Elka Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 170,
+      "firstName": "Jorey",
+      "lastName": "Bolesworth",
+      "email": "jbolesworth3v@mySeneca.ca",
+      "addressStreet": "474 Jenifer Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 171,
+      "firstName": "Benny",
+      "lastName": "Zute",
+      "email": "bzute3w@mySeneca.ca",
+      "addressStreet": "89991 Iowa Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 172,
+      "firstName": "Tillie",
+      "lastName": "Depke",
+      "email": "tdepke3x@mySeneca.ca",
+      "addressStreet": "4 Fisk Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 173,
+      "firstName": "Gil",
+      "lastName": "Shallcroff",
+      "email": "gshallcroff3y@mySeneca.ca",
+      "addressStreet": "04413 Muir Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 174,
+      "firstName": "Dominic",
+      "lastName": "Loughead",
+      "email": "dloughead3z@mySeneca.ca",
+      "addressStreet": "28829 Graedel Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 175,
+      "firstName": "Sullivan",
+      "lastName": "O' Concannon",
+      "email": "soconcannon40@mySeneca.ca",
+      "addressStreet": "7250 Blackbird Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 176,
+      "firstName": "Baryram",
+      "lastName": "Clancy",
+      "email": "bclancy41@mySeneca.ca",
+      "addressStreet": "59635 Rowland Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 177,
+      "firstName": "Brenden",
+      "lastName": "Tompkins",
+      "email": "btompkins42@mySeneca.ca",
+      "addressStreet": "68150 Schmedeman Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 178,
+      "firstName": "Ulrich",
+      "lastName": "Ambrogiotti",
+      "email": "uambrogiotti43@mySeneca.ca",
+      "addressStreet": "924 Loftsgordon Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 179,
+      "firstName": "Ardene",
+      "lastName": "Bilovus",
+      "email": "abilovus44@mySeneca.ca",
+      "addressStreet": "6606 Sunbrook Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 180,
+      "firstName": "Dallas",
+      "lastName": "Meedendorpe",
+      "email": "dmeedendorpe45@mySeneca.ca",
+      "addressStreet": "5153 Golf Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 181,
+      "firstName": "Tonye",
+      "lastName": "Ogelsby",
+      "email": "togelsby46@mySeneca.ca",
+      "addressStreet": "8 Clyde Gallagher Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 182,
+      "firstName": "Maxwell",
+      "lastName": "Gallamore",
+      "email": "mgallamore47@mySeneca.ca",
+      "addressStreet": "699 Westerfield Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 183,
+      "firstName": "Kerry",
+      "lastName": "Pressman",
+      "email": "kpressman48@mySeneca.ca",
+      "addressStreet": "51 Karstens Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 184,
+      "firstName": "Eugine",
+      "lastName": "Carder",
+      "email": "ecarder49@mySeneca.ca",
+      "addressStreet": "47923 Melvin Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 185,
+      "firstName": "Herb",
+      "lastName": "Britch",
+      "email": "hbritch4a@mySeneca.ca",
+      "addressStreet": "1523 Gina Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 186,
+      "firstName": "Juan",
+      "lastName": "Barwell",
+      "email": "jbarwell4b@mySeneca.ca",
+      "addressStreet": "46 Ludington Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 187,
+      "firstName": "Melva",
+      "lastName": "Jamison",
+      "email": "mjamison4c@mySeneca.ca",
+      "addressStreet": "1 Michigan Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 2
+    },
+    {
+      "studentNum": 188,
+      "firstName": "Lodovico",
+      "lastName": "Trippick",
+      "email": "ltrippick4d@mySeneca.ca",
+      "addressStreet": "05162 Cottonwood Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 189,
+      "firstName": "Eolanda",
+      "lastName": "Baitson",
+      "email": "ebaitson4e@mySeneca.ca",
+      "addressStreet": "63 Browning Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 190,
+      "firstName": "Augustine",
+      "lastName": "Sandell",
+      "email": "asandell4f@mySeneca.ca",
+      "addressStreet": "6 Victoria Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 191,
+      "firstName": "Kiley",
+      "lastName": "Elecum",
+      "email": "kelecum4g@mySeneca.ca",
+      "addressStreet": "7 Huxley Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 192,
+      "firstName": "Pepita",
+      "lastName": "Beels",
+      "email": "pbeels4h@mySeneca.ca",
+      "addressStreet": "6 Buena Vista Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 193,
+      "firstName": "Francesca",
+      "lastName": "Lilleman",
+      "email": "flilleman4i@mySeneca.ca",
+      "addressStreet": "29160 Welch Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 194,
+      "firstName": "Nichol",
+      "lastName": "Tourville",
+      "email": "ntourville4j@mySeneca.ca",
+      "addressStreet": "53647 Mariners Cove Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 195,
+      "firstName": "Tan",
+      "lastName": "Gallaccio",
+      "email": "tgallaccio4k@mySeneca.ca",
+      "addressStreet": "18 Mayfield Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 196,
+      "firstName": "Marlie",
+      "lastName": "Deveraux",
+      "email": "mdeveraux4l@mySeneca.ca",
+      "addressStreet": "4 Warrior Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 197,
+      "firstName": "Alissa",
+      "lastName": "Phinn",
+      "email": "aphinn4m@mySeneca.ca",
+      "addressStreet": "8175 Dunning Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 198,
+      "firstName": "Anya",
+      "lastName": "Yole",
+      "email": "ayole4n@mySeneca.ca",
+      "addressStreet": "166 Graedel Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 199,
+      "firstName": "Amalita",
+      "lastName": "Covil",
+      "email": "acovil4o@mySeneca.ca",
+      "addressStreet": "2811 Summit Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 200,
+      "firstName": "Siouxie",
+      "lastName": "Frank",
+      "email": "sfrank4p@mySeneca.ca",
+      "addressStreet": "40 Saint Paul Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 201,
+      "firstName": "Lilli",
+      "lastName": "Elston",
+      "email": "lelston4q@mySeneca.ca",
+      "addressStreet": "797 Orin Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 202,
+      "firstName": "Kalindi",
+      "lastName": "Petschel",
+      "email": "kpetschel4r@mySeneca.ca",
+      "addressStreet": "08 David Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 203,
+      "firstName": "Bartolemo",
+      "lastName": "Pemberton",
+      "email": "bpemberton4s@mySeneca.ca",
+      "addressStreet": "4 Crownhardt Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 204,
+      "firstName": "Marlene",
+      "lastName": "Taleworth",
+      "email": "mtaleworth4t@mySeneca.ca",
+      "addressStreet": "272 La Follette Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 1
+    },
+    {
+      "studentNum": 205,
+      "firstName": "Jada",
+      "lastName": "Bickerton",
+      "email": "jbickerton4u@mySeneca.ca",
+      "addressStreet": "1286 Jana Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 206,
+      "firstName": "Noelani",
+      "lastName": "Pettifer",
+      "email": "npettifer4v@mySeneca.ca",
+      "addressStreet": "03 Lunder Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 207,
+      "firstName": "Pincus",
+      "lastName": "Cundict",
+      "email": "pcundict4w@mySeneca.ca",
+      "addressStreet": "6647 Memorial Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 208,
+      "firstName": "Dalis",
+      "lastName": "Hynde",
+      "email": "dhynde4x@mySeneca.ca",
+      "addressStreet": "98 Eagan Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 209,
+      "firstName": "Anissa",
+      "lastName": "Emmerson",
+      "email": "aemmerson4y@mySeneca.ca",
+      "addressStreet": "2050 Maple Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 210,
+      "firstName": "Jone",
+      "lastName": "Mergue",
+      "email": "jmergue4z@mySeneca.ca",
+      "addressStreet": "09 Lerdahl Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 211,
+      "firstName": "Aeriela",
+      "lastName": "Tole",
+      "email": "atole50@mySeneca.ca",
+      "addressStreet": "92 Old Gate Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 212,
+      "firstName": "Nanni",
+      "lastName": "Foggarty",
+      "email": "nfoggarty51@mySeneca.ca",
+      "addressStreet": "1 Elka Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 213,
+      "firstName": "Kath",
+      "lastName": "Rielly",
+      "email": "krielly52@mySeneca.ca",
+      "addressStreet": "486 Mcguire Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 214,
+      "firstName": "Hilda",
+      "lastName": "Crowcher",
+      "email": "hcrowcher53@mySeneca.ca",
+      "addressStreet": "9 Mockingbird Point",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 215,
+      "firstName": "Lawton",
+      "lastName": "Mussett",
+      "email": "lmussett54@mySeneca.ca",
+      "addressStreet": "8 Larry Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 216,
+      "firstName": "Reena",
+      "lastName": "Axten",
+      "email": "raxten55@mySeneca.ca",
+      "addressStreet": "0963 Corben Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 217,
+      "firstName": "Melesa",
+      "lastName": "Terbrug",
+      "email": "mterbrug56@mySeneca.ca",
+      "addressStreet": "8014 Washington Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 218,
+      "firstName": "Clarinda",
+      "lastName": "Ellam",
+      "email": "cellam57@mySeneca.ca",
+      "addressStreet": "3 Dixon Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 219,
+      "firstName": "Ellyn",
+      "lastName": "Longland",
+      "email": "elongland58@mySeneca.ca",
+      "addressStreet": "99288 Carberry Terrace",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 220,
+      "firstName": "Ferdie",
+      "lastName": "Zannini",
+      "email": "fzannini59@mySeneca.ca",
+      "addressStreet": "346 Messerschmidt Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 221,
+      "firstName": "Oliver",
+      "lastName": "Bedding",
+      "email": "obedding5a@mySeneca.ca",
+      "addressStreet": "9 Amoth Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 222,
+      "firstName": "Latrina",
+      "lastName": "Jimes",
+      "email": "ljimes5b@mySeneca.ca",
+      "addressStreet": "62 Oak Pass",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 223,
+      "firstName": "Kellen",
+      "lastName": "Jessel",
+      "email": "kjessel5c@mySeneca.ca",
+      "addressStreet": "2354 Morningstar Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 224,
+      "firstName": "Catherina",
+      "lastName": "Greguoli",
+      "email": "cgreguoli5d@mySeneca.ca",
+      "addressStreet": "7 Lakewood Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 225,
+      "firstName": "Clarabelle",
+      "lastName": "Kuhne",
+      "email": "ckuhne5e@mySeneca.ca",
+      "addressStreet": "8 7th Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 226,
+      "firstName": "Gwenny",
+      "lastName": "Vousden",
+      "email": "gvousden5f@mySeneca.ca",
+      "addressStreet": "4 Schlimgen Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 227,
+      "firstName": "Nancey",
+      "lastName": "Venturoli",
+      "email": "nventuroli5g@mySeneca.ca",
+      "addressStreet": "5753 Westridge Way",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 228,
+      "firstName": "Tammie",
+      "lastName": "Myner",
+      "email": "tmyner5h@mySeneca.ca",
+      "addressStreet": "91 Dovetail Lane",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 229,
+      "firstName": "Erny",
+      "lastName": "Dury",
+      "email": "edury5i@mySeneca.ca",
+      "addressStreet": "4798 Warbler Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 230,
+      "firstName": "Sam",
+      "lastName": "Reichelt",
+      "email": "sreichelt5j@mySeneca.ca",
+      "addressStreet": "0 Superior Court",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 7
+    },
+    {
+      "studentNum": 231,
+      "firstName": "Selina",
+      "lastName": "Goldby",
+      "email": "sgoldby5k@mySeneca.ca",
+      "addressStreet": "846 Eggendart Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 3
+    },
+    {
+      "studentNum": 232,
+      "firstName": "Dieter",
+      "lastName": "Hampshaw",
+      "email": "dhampshaw5l@mySeneca.ca",
+      "addressStreet": "2 3rd Street",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 233,
+      "firstName": "Karee",
+      "lastName": "Branche",
+      "email": "kbranche5m@mySeneca.ca",
+      "addressStreet": "86 Little Fleur Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 234,
+      "firstName": "Rhonda",
+      "lastName": "Swatradge",
+      "email": "rswatradge5n@mySeneca.ca",
+      "addressStreet": "13593 Beilfuss Circle",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 235,
+      "firstName": "Nicolea",
+      "lastName": "Vizard",
+      "email": "nvizard5o@mySeneca.ca",
+      "addressStreet": "39 Gale Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    },
+    {
+      "studentNum": 236,
+      "firstName": "Dre",
+      "lastName": "Ranner",
+      "email": "dranner5p@mySeneca.ca",
+      "addressStreet": "20073 Crownhardt Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 5
+    },
+    {
+      "studentNum": 237,
+      "firstName": "Adrianna",
+      "lastName": "Cristofori",
+      "email": "acristofori5q@mySeneca.ca",
+      "addressStreet": "2 Vermont Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 238,
+      "firstName": "Danyette",
+      "lastName": "Clericoates",
+      "email": "dclericoates5r@mySeneca.ca",
+      "addressStreet": "2 David Junction",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 239,
+      "firstName": "Everett",
+      "lastName": "Klugel",
+      "email": "eklugel5s@mySeneca.ca",
+      "addressStreet": "640 Meadow Valley Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 240,
+      "firstName": "Athena",
+      "lastName": "Kyteley",
+      "email": "akyteley5t@mySeneca.ca",
+      "addressStreet": "96633 Fieldstone Park",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 241,
+      "firstName": "Bald",
+      "lastName": "Brixey",
+      "email": "bbrixey5u@mySeneca.ca",
+      "addressStreet": "05 Crescent Oaks Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 242,
+      "firstName": "Aeriell",
+      "lastName": "Tingley",
+      "email": "atingley5v@mySeneca.ca",
+      "addressStreet": "2 Mayer Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 243,
+      "firstName": "Michail",
+      "lastName": "Doige",
+      "email": "mdoige5w@mySeneca.ca",
+      "addressStreet": "7 Pierstorff Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 244,
+      "firstName": "Aura",
+      "lastName": "Esmead",
+      "email": "aesmead5x@mySeneca.ca",
+      "addressStreet": "24232 Wayridge Trail",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 6
+    },
+    {
+      "studentNum": 245,
+      "firstName": "Ernie",
+      "lastName": "Birth",
+      "email": "ebirth5y@mySeneca.ca",
+      "addressStreet": "15060 Meadow Ridge Drive",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 4
+    },
+    {
+      "studentNum": 246,
+      "firstName": "Stanwood",
+      "lastName": "Phillips",
+      "email": "sphillips5z@mySeneca.ca",
+      "addressStreet": "68 Johnson Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 247,
+      "firstName": "Raquela",
+      "lastName": "Sign",
+      "email": "rsign60@mySeneca.ca",
+      "addressStreet": "74 High Crossing Avenue",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 248,
+      "firstName": "Christian",
+      "lastName": "Tarbet",
+      "email": "ctarbet61@mySeneca.ca",
+      "addressStreet": "7 Debra Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 249,
+      "firstName": "Cassy",
+      "lastName": "Colquyte",
+      "email": "ccolquyte62@mySeneca.ca",
+      "addressStreet": "7745 Sachs Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 7
+    },
+    {
+      "studentNum": 250,
+      "firstName": "Gale",
+      "lastName": "Davidowsky",
+      "email": "gdavidowsky63@mySeneca.ca",
+      "addressStreet": "1 Alpine Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 251,
+      "firstName": "Sascha",
+      "lastName": "Barhems",
+      "email": "sbarhems64@mySeneca.ca",
+      "addressStreet": "9708 Dixon Alley",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 1
+    },
+    {
+      "studentNum": 252,
+      "firstName": "Cristionna",
+      "lastName": "Beeching",
+      "email": "cbeeching65@mySeneca.ca",
+      "addressStreet": "7865 Sullivan Center",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 253,
+      "firstName": "Binny",
+      "lastName": "Casely",
+      "email": "bcasely66@mySeneca.ca",
+      "addressStreet": "16 Clemons Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 254,
+      "firstName": "Gnni",
+      "lastName": "Giovannacc@i",
+      "email": "ggiovannacci67@mySeneca.ca",
+      "addressStreet": "729 Parkside Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 3
+    },
+    {
+      "studentNum": 255,
+      "firstName": "Ignaz",
+      "lastName": "Saintpierre",
+      "email": "isaintpierre68@mySeneca.ca",
+      "addressStreet": "3190 Fairfield Road",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 256,
+      "firstName": "Penny",
+      "lastName": "Souza",
+      "email": "psouza69@mySeneca.ca",
+      "addressStreet": "8557 Lindbergh Hill",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 4
+    },
+    {
+      "studentNum": 257,
+      "firstName": "Lothaire",
+      "lastName": "Aveling",
+      "email": "laveling6a@mySeneca.ca",
+      "addressStreet": "60 Kennedy Place",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 258,
+      "firstName": "Abramo",
+      "lastName": "Cecil",
+      "email": "acecil6b@mySeneca.ca",
+      "addressStreet": "920 Anthes Parkway",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Full Time",
+      "course": 2
+    },
+    {
+      "studentNum": 259,
+      "firstName": "Tessy",
+      "lastName": "Verny",
+      "email": "tverny6c@mySeneca.ca",
+      "addressStreet": "8142 School Plaza",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 6
+    },
+    {
+      "studentNum": 260,
+      "firstName": "Jojo",
+      "lastName": "Tschierasche",
+      "email": "jtschierasche6d@mySeneca.ca",
+      "addressStreet": "0560 Di Loreto Crossing",
+      "addressCity": "Toronto",
+      "addressProvince": "ON",
+      
+      "TA": false,
+      "status": "Part Time",
+      "course": 5
+    }
+  ]

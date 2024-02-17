@@ -1,0 +1,22 @@
+{
+  "name": "web700-app",
+  "version": "1.0.0",
+  "description": "Assignment-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadhusan24/Seneca-Web700-Labs.git"
+  },
+  "author": "Jadhusan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadhusan24/Seneca-Web700-Labs/issues"
+  },
+  "homepage": "https://github.com/Jadhusan24/Seneca-Web700-Labs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
