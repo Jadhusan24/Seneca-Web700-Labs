@@ -1,0 +1,84 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+/* App Background */
+html, body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(135deg, #ff6f61 0%, #c45669 100%); /* Gradient from red to dark red */
+  font-family: 'Roboto', sans-serif;
+  color: #333; /* Soften the default text color for better readability */
+}
+
+/* Navigation Bar */
+.bg-light {
+  background: linear-gradient(to right, #ff6f61, #ffada7); /* Gradient from red to light red */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3); /* More pronounced shadow for depth */
+  padding: 10px 0; /* Adjust padding */
+  border-radius: 10px; /* Rounded corners for a softer look */
+  margin: 10px; /* Margin around the navbar for space */
+}
+
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5); /* Enhanced text shadow for depth */
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #ffc6b3; /* Lighter red on hover for a subtle effect */
+  text-decoration: none; /* Remove underline on hover */
+}
+
+/* "Primary" Button */
+.btn-primary {
+  background-color: #ff6f61; /* Soft red */
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+  border-radius: 20px; /* More rounded corners for buttons */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  color: #fff; /* Ensure text color is white for contrast */
+}
+
+.btn-primary:hover {
+  background-color: #ffada7; /* Lighter red for hover */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+/* Table cells inside "odd" numbered table rows */
+table.table tr:nth-child(odd) td {
+  background-color: #ffccbc; /* Lighter shade of red for a subtle zebra-stripe effect */
+  border-radius: 5px; /* Slightly rounded corners for table cells */
+}
+
+/* All "Heading" elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color: #333; /* Darker shade for headings for emphasis */
+  text-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
+/* All "Anchor" elements (HTML Links) */
+a {
+  color: #c45669; /* Harmonize with the primary color scheme */
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #ff6f61; /* Lighter on hover */
+  text-decoration: none; /* No underline on hover for a cleaner look */
+}
+
+/* Fieldset "Legends" */
+legend {
+  padding: 10px 0;
+  font-family: 'Roboto', sans-serif;
+  color: #4a4a4a;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2); /* More pronounced shadow for depth */
+}

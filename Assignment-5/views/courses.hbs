@@ -1,0 +1,27 @@
+{{#if courses.length}}
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Course Code</th>
+                <th>Course Description</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            {{#each courses}}
+<tr>
+<td><a href="/course/{{this.courseId}}">{{this.courseCode}}</a></td>
+<td><a href="/students?course={{this.courseId}}">{{this.courseDescription}}</a></td>
+
+</tr>
+{{/each}}
+
+        </tbody>
+    </table>
+</div>
+{{else}}
+<div class="col-md-12 text-center">
+    <strong>{{message}}</strong>
+</div>
+{{/if}}
