@@ -1,0 +1,55 @@
+<div class="row">
+    <div class="col-md-12">
+        <h2>Edit Student: {{student.firstName}} {{student.lastName}}</h2>
+        <form method="post" action="/student/update">
+            <input type="hidden" name="studentNum" value="{{student.studentNum}}">
+            <div class="form-group">
+                <label for="firstName">First Name:</label>
+                <input type="text" class="form-control" id="firstName" name="firstName" value="{{student.firstName}}" required>
+            </div>
+            <div class="form-group">
+                <label for="lastName">Last Name:</label>
+                <input type="text" class="form-control" id="lastName" name="lastName" value="{{student.lastName}}" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" name="email" value="{{student.email}}" required>
+            </div>
+            <div class="form-group">
+                <label for="addressStreet">Address (Street):</label>
+                <input type="text" class="form-control" id="addressStreet" name="addressStreet" value="{{student.addressStreet}}" required>
+            </div>
+            <div class="form-group">
+                <label for="addressCity">Address (City):</label>
+                <input type="text" class="form-control" id="addressCity" name="addressCity" value="{{student.addressCity}}" required>
+            </div>
+            <div class="form-group">
+                <label for="addressProvince">Address (Province):</label>
+                <input type="text" class="form-control" id="addressProvince" name="addressProvince" value="{{student.addressProvince}}" required>
+            </div>
+            <div class="form-group">
+                <label>Status:</label><br>
+                <label class="radio-inline">
+                    <input type="radio" name="status" value="Full Time" {{#if (equal student.status 'Full Time')}}checked{{/if}}> Full Time
+                </label>
+                <label class="radio-inline">
+                    <input type="radio" name="status" value="Part Time" {{#if (equal student.status 'Part Time')}}checked{{/if}}> Part Time
+                </label>
+            </div>
+            <div class="form-group">
+                <label for="course">Course:</label>
+                <select class="form-control" id="course" name="course" required>
+                    <option value="">Select Course</option>
+                    {{#each viewData.courses}}
+                    <option value="{{this.courseId}}" {{#if (equal student.course this.courseId)}}selected{{/if}}>{{this.courseCode}}</option>
+                    {{/each}}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="ta">TA:</label>
+                <input type="checkbox" id="ta" name="ta" {{#if student.ta}}checked{{/if}}>
+            </div>
+            <button type="submit" class="btn btn-primary">Update Student</button>
+        </form>
+    </div>
+</div>

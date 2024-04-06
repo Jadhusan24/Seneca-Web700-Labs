@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-md-12">
+        <h2>{{course.courseDescription}}</h2>
+        <hr>
+        <!-- The form now submits to /courses/update -->
+        <form action="/courses/update" method="POST">
+            <!-- Hidden field to store the course ID -->
+            <input type="hidden" name="courseId" value="{{course.courseId}}">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="courseCode">Course Code:</label>
+                        <!-- Input for course code -->
+                        <input class="form-control" id="courseCode" name="courseCode" type="text" value="{{course.courseCode}}" required/>
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="form-group">
+                        <label for="courseDescription">Course Description:</label>
+                        <!-- Input for course description -->
+                        <input class="form-control" id="courseDescription" name="courseDescription" type="text" value="{{course.courseDescription}}" required/>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <!-- Submit button to save the updated course -->
+            <button type="submit" class="btn btn-primary">Update Course</button>
+        </form>
+    </div>
+</div>
